@@ -8,7 +8,7 @@ zmq4 : github.com/pebbe/zmq4
 
 ### Install dependencies:
 ```
-go get github.com/gofiber/fiber/v2
+go get -u github.com/gofiber/fiber/v2
 go get github.com/pebbe/zmq4
 ```
 
