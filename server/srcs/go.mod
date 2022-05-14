@@ -1,4 +1,4 @@
-module github.com/harou24/ZeroMQ-Request-Reply-Golang.git
+module github.com/harou24/ZeroMQ-Request-Reply-Golang.git/worker/srcs
 
 go 1.18
 
@@ -10,5 +10,5 @@ require (
 	github.com/valyala/bytebufferpool v1.0.0 // indirect
 	github.com/valyala/fasthttp v1.36.0 // indirect
 	github.com/valyala/tcplisten v1.0.0 // indirect
-	golang.org/x/sys v0.0.0-20220503163025-988cb79eb6c6 // indirect
+	golang.org/x/sys v0.0.0-20220513210249-45d2b4557a2a // indirect
 )
