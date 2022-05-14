@@ -4,7 +4,7 @@ How to use ZeroMQ Request-Reply Pattern in Golang.
 ## Dependencies
 https://github.com/gofiber/fiber
 
-zmq4 : github.com/pebbe/zmq4
+https://github.com/pebbe/zmq4
 
 ### Install dependencies:
 ```
