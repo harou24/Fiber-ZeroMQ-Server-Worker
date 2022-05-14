@@ -1,15 +1,12 @@
 # ZeroMQ-Request-Reply-Golang
 How to use ZeroMQ Request-Reply Pattern in Golang.
 
-## Dependencies
-https://github.com/gofiber/fiber
+## How to run
 
-zmq4 : github.com/pebbe/zmq4
+Make sure to have docker-compose installed and docker daemon running.
 
-### Install dependencies:
 ```
-go get -u github.com/gofiber/fiber/v2
-go get github.com/pebbe/zmq4
+docker-compose up --build
 ```
 
 ## Sources
