@@ -8,4 +8,4 @@ jobs:
       - name: Build the stack
         run: docker-compose up -d
       - name: Test
-        run: docker run --network container:webapp-frontend appropriate/curl -s http://localhost:3000/
+        run: docker run --network container:server appropriate/curl -s http://localhost:3000/
